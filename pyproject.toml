@@ -19,6 +19,7 @@ dependencies = [
     "langchain-pinecone>=0.2.13",
     "langchain-text-splitters>=1.1.2",
     "langsmith>=0.11.1",
+    "pandas>=3.0.6",
     "pillow>=12.3.0",
     "pinecone>=6,<8",
     "pymupdf>=1.28.2",
